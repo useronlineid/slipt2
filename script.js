@@ -149,7 +149,7 @@ function updateDisplay() {
             drawText(ctx, `${QRCode}`, 238.9, 599.0, '33px Kanit', '#4e4e4e', '500', 'left', 1.5, 5, 0, 0, 500, 0);
             drawImage(ctx, 'https://github.com/useronlineid/Theslipcame/blob/main/TTB2.png?raw=true', 51.4, 550.0, 78.5, 78.5);  
        
-            drawText(ctx, `${AideMemoire}`, 49.0, 878.0, '27.4px TTB Money', '#124374', '500', 'right', 1.5, 1, 0, 0, 800, 0);
+            drawText(ctx, `${AideMemoire}`, 49.0, 877.0, '27.4px TTB Money', '#124374', '500', 'right', 1.5, 1, 0, 0, 800, 0);
             
           
             // Draw the selected image
