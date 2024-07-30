@@ -58,7 +58,7 @@ function updateDisplay() {
         case 'KTB':
             bankLogoUrl = 'https://github.com/useronlineid/Theslipcame/blob/main/KTB2.png?raw=true';
             break;
-        case 'KTB':
+        case 'BBL':
             bankLogoUrl = 'https://github.com/useronlineid/Theslipcame/blob/main/BBL2.png?raw=true';
             break;
         case 'SCB':
